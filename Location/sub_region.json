@@ -1,0 +1,232 @@
+[
+    {
+        "id": "0",
+        "slug": "middle_africa",
+        "name": "Middle Africa",
+        "region": "africa",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "1",
+        "slug": "middle_africa",
+        "name": "Northern Africa",
+        "region": "africa",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "2",
+        "slug": "northern_africa",
+        "name": "Middle Africa",
+        "region": "africa",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "3",
+        "slug": "eastern_africa",
+        "name": "Eastern Africa",
+        "region": "africa",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "4",
+        "slug": "southern_africa",
+        "name": "Southern Africa",
+        "region": "africa",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "5",
+        "slug": "western_africa",
+        "name": "Western Africa",
+        "region": "africa",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "6",
+        "slug": "north_america",
+        "name": "North America",
+        "region": "americas",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "7",
+        "slug": "central_america",
+        "name": "Central America",
+        "region": "americas",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "8",
+        "slug": "south_america",
+        "name": "South America",
+        "region": "americas",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "9",
+        "slug": "the_caribbean",
+        "name": "The Caribbean",
+        "region": "americas",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "10",
+        "slug": "northern_asia",
+        "name": "Northern Asia",
+        "region": "asia",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "11",
+        "slug": "central_asia",
+        "name": "Central Asia",
+        "region": "asia",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "12",
+        "slug": "southeast_asia",
+        "name": "Southeast Asia",
+        "region": "asia",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "13",
+        "slug": "eastern_asia",
+        "name": "Eastern Asia",
+        "region": "asia",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "14",
+        "slug": "southern_asia",
+        "name": "Southern Asia",
+        "region": "asia",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "15",
+        "slug": "eastern_europe",
+        "name": "Eastern Europe",
+        "region": "europe",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "16",
+        "slug": "northern_europe",
+        "name": "Northern Europe",
+        "region": "europe",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "17",
+        "slug": "southern_europe",
+        "name": "Southern Europe",
+        "region": "europe",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "18",
+        "slug": "western_europe",
+        "name": "Western Europe",
+        "region": "europe",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "19",
+        "slug": "australia",
+        "name": "Australia",
+        "region": "oceania",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "20",
+        "slug": "melanesia",
+        "name": "Melanesia",
+        "region": "oceania",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "21",
+        "slug": "micronesia",
+        "name": "Micronesia",
+        "region": "oceania",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "22",
+        "slug": "polynesia",
+        "name": "Polynesia",
+        "region": "oceania",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    }
+]

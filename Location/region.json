@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0",
+        "slug": "africa",
+        "name": "Africa",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "1",
+        "slug": "americas",
+        "name": "Americas",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "2",
+        "slug": "asia",
+        "name": "Asia",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "3",
+        "slug": "europe",
+        "name": "Europe",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    },
+    {
+        "id": "4",
+        "slug": "oceania",
+        "name": "Oceania",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "updated_at": "2022-07-01T13:00:00.000Z",
+        "is_enabled": true,
+        "is_deleted": false
+    }
+]
