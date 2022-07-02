@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0",
+        "slug": "suggestion",
+        "name": "Suggestion"
+    },
+    {
+        "id": "1",
+        "slug": "general",
+        "name": "General"
+    },
+    {
+        "id": "2",
+        "slug": "problem",
+        "name": "Problem"
+    },
+    {
+        "id": "3",
+        "slug": "other",
+        "name": "Other"
+    }
+]

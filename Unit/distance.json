@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "slug": "mm",
+        "name": "Millimeter",
+        "symbol": "mm"
+    },
+    {
+        "id": "1",
+        "slug": "cm",
+        "name": "Centimeter",
+        "symbol": "cm"
+    },
+    {
+        "id": "2",
+        "slug": "m",
+        "name": "Metre",
+        "symbol": "m"
+    },
+    {
+        "id": "3",
+        "slug": "km",
+        "name": "Kilometer",
+        "symbol": "km"
+    }
+]

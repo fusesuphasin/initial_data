@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0",
+        "slug": "create_label",
+        "name": "Create Label"
+    },
+    {
+        "id": "1",
+        "slug": "cancel_label",
+        "name": "Cancel Label"
+    },
+    {
+        "id": "2",
+        "slug": "manifests",
+        "name": "Manifests"
+    },
+    {
+        "id": "3",
+        "slug": "tracking",
+        "name": "Tracking"
+    }
+]

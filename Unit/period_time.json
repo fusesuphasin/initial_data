@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0",
+        "day": 1,
+        "name": "1 Day"
+    },
+    {
+        "id": "1",
+        "day": 2,
+        "name": "2 Days"
+    },
+    {
+        "id": "2",
+        "day": 3,
+        "name": "3 Days"
+    },
+    {
+        "id": "3",
+        "day": 7,
+        "name": "7 Days / 1 Week"
+    },
+    {
+        "id": "4",
+        "day": 30,
+        "name": "30 Days / 1 Month"
+    },
+    {
+        "id": "5",
+        "day": 60,
+        "name": "60 Days / 2 Month"
+    },
+    {
+        "id": "6",
+        "day": 90,
+        "name": "90 Days / 3 Month"
+    },
+    {
+        "id": "7",
+        "day": 180,
+        "name": "180 Days / 6 Month"
+    },
+    {
+        "id": "8",
+        "day": 360,
+        "name": "360 Days / 12 Month / 1 Year"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "slug": "invoice",
+        "name": "Invoice",
+        "attribute_list": [
+            {
+                "name": "site_title",
+                "value": "value"
+            },
+            {
+                "name": "site_title",
+                "value": "value"
+            }
+        ]
+    }
+]

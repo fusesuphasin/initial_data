@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0",
+        "slug": "plan",
+        "name": "Plan"
+    },
+    {
+        "id": "1",
+        "slug": "promotion",
+        "name": "Promotion"
+    },
+    {
+        "id": "2",
+        "slug": "coupon",
+        "name": "Coupon"
+    },
+    {
+        "id": "3",
+        "slug": "courier",
+        "name": "Courier"
+    }
+]

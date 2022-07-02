@@ -1,0 +1,9 @@
+[
+    {
+        "id": "0",
+        "slug": "en",
+        "name": "English",
+        "locale": "en_US",
+        "is_rtl": false
+    }
+]

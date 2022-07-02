@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0",
+        "slug": "oauth",
+        "name": "Oauth"
+    },
+    {
+        "id": "1",
+        "slug": "email",
+        "name": "Email"
+    },
+    {
+        "id": "2",
+        "slug": "sms",
+        "name": "SMS"
+    },
+    {
+        "id": "3",
+        "slug": "payment",
+        "name": "Payment"
+    }
+]

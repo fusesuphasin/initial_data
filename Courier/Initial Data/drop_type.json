@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "slug": "on_demand",
+        "name": "On-Demand"
+    },
+    {
+        "id": "1",
+        "slug": "dropship",
+        "name": "Dropship / Pickup"
+    },
+    {
+        "id": "2",
+        "slug": "dropoff",
+        "name": "Dropoff"
+    }
+]

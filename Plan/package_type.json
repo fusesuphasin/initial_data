@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0",
+        "slug": "free",
+        "name": "Free"
+    },
+    {
+        "id": "1",
+        "slug": "individual",
+        "name": "Individual"
+    },
+    {
+        "id": "2",
+        "slug": "startup",
+        "name": "Start Up"
+    },
+    {
+        "id": "3",
+        "slug": "business",
+        "name": "Business"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "0",
+        "hex": "#34568B",
+        "slug": "classic_blue",
+        "name": "Classic Blue"
+    },
+    {
+        "id": "1",
+        "hex": "#FF6F61",
+        "slug": "living_coral",
+        "name": "Living Coral"
+    },
+    {
+        "id": "2",
+        "hex": "#6B5B95",
+        "slug": "ultra_violet",
+        "name": "Ultra Violet"
+    },
+    {
+        "id": "3",
+        "hex": "#88B04B",
+        "slug": "greenery",
+        "name": "Greenery"
+    },
+    {
+        "id": "4",
+        "hex": "#F7CAC9",
+        "slug": "rose_quartz",
+        "name": "Rose Quartz"
+    },
+    {
+        "id": "5",
+        "hex": "#955251",
+        "slug": "marsala",
+        "name": "Marsala"
+    },
+    {
+        "id": "6",
+        "hex": "#B565A7",
+        "slug": "radiand_orchid",
+        "name": "Radiand Orchid"
+    },
+    {
+        "id": "7",
+        "hex": "#009B77",
+        "slug": "rmerald",
+        "name": "Emerald"
+    },
+    {
+        "id": "8",
+        "hex": "#DD4124",
+        "slug": "tangerine_tango",
+        "name": "Tangerine Tango"
+    },
+    {
+        "id": "9",
+        "hex": "#D65076",
+        "slug": "honeysucle",
+        "name": "Honeysucle"
+    },
+    {
+        "id": "10",
+        "hex": "#45B8AC",
+        "slug": "turquoise",
+        "name": "Turquoise"
+    },
+    {
+        "id": "11",
+        "hex": "#EFC050",
+        "slug": "mimosa",
+        "name": "Mimosa"
+    },
+    {
+        "id": "12",
+        "hex": "#5B5EA6",
+        "slug": "blue_izis",
+        "name": "Blue Izis"
+    },
+    {
+        "id": "13",
+        "hex": "#9B2335",
+        "slug": "chili_pepper",
+        "name": "Chili Pepper"
+    },
+    {
+        "id": "14",
+        "hex": "#DFCFBE",
+        "slug": "sand_dollar",
+        "name": "Sand Dollar"
+    },
+    {
+        "id": "15",
+        "hex": "#55B4B0",
+        "slug": "blue_turquoise",
+        "name": "Blue Turquoise"
+    },
+    {
+        "id": "16",
+        "hex": "#9B2335",
+        "slug": "chili_pepper",
+        "name": "Chili Pepper"
+    },
+    {
+        "id": "17",
+        "hex": "#E15D44",
+        "slug": "tigerlily",
+        "name": "Tigerlily"
+    },
+    {
+        "id": "13",
+        "hex": "#7FCDCD",
+        "slug": "aqua_sky",
+        "name": "Aqua Sky"
+    },
+    {
+        "id": "14",
+        "hex": "#9B2335",
+        "slug": "true_red",
+        "name": "True Red"
+    },
+    {
+        "id": "15",
+        "hex": "#C3447A",
+        "slug": "fuchsia_rose",
+        "name": "Fuchsia Rose"
+    },
+    {
+        "id": "16",
+        "hex": "#98B4D4",
+        "slug": "cerulean_blue",
+        "name": "Cerulean Blue"
+    }
+]

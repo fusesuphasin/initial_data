@@ -1,0 +1,56 @@
+[
+    {
+        "id": "0",
+        "slug": "in_3_minute",
+        "name": "In 3 Minute",
+        "expiration_time": {
+            "minute": 3,
+            "hour": 0
+        }
+    },
+    {
+        "id": "1",
+        "slug": "in_5_minute",
+        "name": "In 5 Minute",
+        "expiration_time": {
+            "minute": 5,
+            "hour": 0
+        }
+    },
+    {
+        "id": "2",
+        "slug": "in_30_minute",
+        "name": "In 30 Minute",
+        "expiration_time": {
+            "minute": 30,
+            "hour": 0
+        }
+    },
+    {
+        "id": "3",
+        "slug": "in_60_minute",
+        "name": "In 60 Minute / 1 Hour",
+        "expiration_time": {
+            "minute": 60,
+            "hour": 0
+        }
+    },
+    {
+        "id": "4",
+        "slug": "in_24_houre",
+        "name": "In 24 Hour",
+        "expiration_time": {
+            "minute": 0,
+            "hour": 24
+        }
+    },
+    {
+        "id": "5",
+        "slug": "in_30_days",
+        "name": "In 30 Days",
+        "expiration_time": {
+            "minute": 0,
+            "hour": 720
+        }
+    }
+]

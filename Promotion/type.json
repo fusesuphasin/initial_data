@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "slug": "plan",
+        "name": "Plan"
+    },
+    {
+        "id": "2",
+        "slug": "seat",
+        "name": "Seat"
+    },
+    {
+        "id": "3",
+        "slug": "courier",
+        "name": "courier"
+    }
+]

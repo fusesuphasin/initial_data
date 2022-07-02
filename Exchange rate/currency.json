@@ -1,0 +1,9 @@
+[
+    {
+        "id": "0",
+        "code": "THB",
+        "name": "Bath",
+        "symbol": "฿",
+        "precision": 2
+    }
+]

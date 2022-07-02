@@ -1,0 +1,13 @@
+[
+    {
+        "id": "0",
+        "name": "Restful Main",
+        "setting_list": [
+            {
+                "sec": "p",
+                "key": "p",
+                "value": "sub, obj, act"
+            }
+        ]
+    }
+]

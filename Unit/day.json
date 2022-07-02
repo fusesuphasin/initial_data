@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "slug": "monday",
+        "short_name": "Mon.",
+        "name": "Monday"
+    },
+    {
+        "id": "1",
+        "slug": "tuesday",
+        "short_name": "Tue.",
+        "name": "Tuesday"
+    },
+    {
+        "id": "2",
+        "slug": "wednesday",
+        "short_name": "Wed.",
+        "name": "Wednesday"
+    },
+    {
+        "id": "3",
+        "slug": "thursday",
+        "short_name": "thu.",
+        "name": "Thursday"
+    },
+    {
+        "id": "4",
+        "slug": "friday",
+        "short_name": "Fri.",
+        "name": "Friday"
+    },
+    {
+        "id": "5",
+        "slug": "Saturday",
+        "short_name": "Sat.",
+        "name": "saturday"
+    },
+    {
+        "id": "6",
+        "slug": "sunday",
+        "short_name": "Sun.",
+        "name": "sunday"
+    }
+]

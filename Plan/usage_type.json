@@ -1,0 +1,42 @@
+[
+    {
+        "id": "0",
+        "slug": "create_order",
+        "name": "Create Order"
+    },
+    {
+        "id": "1",
+        "slug": "create_label",
+        "name": "Create Label"
+    },
+    {
+        "id": "2",
+        "slug": "cancel_label",
+        "name": "Cancel Label"
+    },
+    {
+        "id": "3",
+        "slug": "automation_rules",
+        "name": "Automation Rules"
+    },
+    {
+        "id": "4",
+        "slug": "own_carrier_account",
+        "name": "Own Carrier Account"
+    },
+    {
+        "id": "5",
+        "slug": "bulk_actions",
+        "name": "Bulk Actions"
+    },
+    {
+        "id": "6",
+        "slug": "checkout",
+        "name": "Checkout"
+    },
+    {
+        "id": "7",
+        "slug": "shipping_api",
+        "name": "Shipping API"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "slug": "pay_by_credit_card_only",
+        "name": "Pay By Credit Card Only"
+    },
+    {
+        "id": "1",
+        "slug": "pay_by_wallet_only",
+        "name": "Pay By Wallet Only"
+    },
+    {
+        "id": "2",
+        "slug": "Discount Shipment",
+        "name": "discount_shipment"
+    }
+]

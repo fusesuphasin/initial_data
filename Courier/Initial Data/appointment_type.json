@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "slug": "morning",
+        "name": "Mrning"
+    },
+    {
+        "id": "1",
+        "slug": "afternon",
+        "name": "Afternon"
+    },
+    {
+        "id": "2",
+        "slug": "evening",
+        "name": "Evening"
+    }
+]

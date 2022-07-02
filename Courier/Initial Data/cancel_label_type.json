@@ -1,0 +1,12 @@
+[
+    {
+        "id": "0",
+        "slug": "canceled_from_courier",
+        "name": "Canceled from courier"
+    },
+    {
+        "id": "1",
+        "slug": "canceled_by_owner",
+        "name": "Canceled from Owner"
+    }
+]

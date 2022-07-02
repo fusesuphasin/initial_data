@@ -1,0 +1,27 @@
+[
+    {
+        "id": "0",
+        "slug": "pdf",
+        "name": "PDF"
+    },
+    {
+        "id": "1",
+        "slug": "doc",
+        "name": "DOC"
+    },
+    {
+        "id": "2",
+        "slug": "html",
+        "name": "HTML"
+    },
+    {
+        "id": "3",
+        "slug": "xls",
+        "name": "XLS"
+    },
+    {
+        "id": "4",
+        "slug": "txt",
+        "name": "TXT"
+    }
+]

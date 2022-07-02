@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "slug": "cm",
+        "name": "centimeter",
+        "symbol": "cm"
+    },
+    {
+        "id": "0",
+        "slug": "in",
+        "name": "inch",
+        "symbol": "in"
+    },
+    {
+        "id": "0",
+        "slug": "m",
+        "name": "meter",
+        "symbol": "m"
+    }
+]

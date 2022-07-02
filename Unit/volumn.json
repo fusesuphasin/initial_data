@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "slug": "cm3",
+        "name": "cubic centimeter",
+        "symbol": "cm³"
+    },
+    {
+        "id": "1",
+        "slug": "m3",
+        "name": "cubic meter",
+        "symbol": "m³"
+    },
+    {
+        "id": "2",
+        "slug": "mL",
+        "name": "milliliter",
+        "symbol": "mL"
+    },
+    {
+        "id": "3",
+        "slug": "L",
+        "name": "liter",
+        "symbol": "L"
+    }
+]

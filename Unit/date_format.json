@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "format": "MM/DD/YYYY",
+        "name": "Month/Day/Year"
+    },
+    {
+        "id": "1",
+        "format": "DD/MM/YYYY",
+        "name": "Day/Month/Year"
+    },
+    {
+        "id": "2",
+        "format": "YYYY/MM/DD",
+        "name": "Year/Month/Day"
+    }
+]

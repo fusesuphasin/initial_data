@@ -1,0 +1,12 @@
+[
+    {
+        "ptype": "p",
+        "v0": "user",
+        "v1": "/admin/courier/name",
+        "v2": "POST",
+        "v3": "string",
+        "v4": "string",
+        "v5": "string",
+        "role_category": "system"
+    }
+]

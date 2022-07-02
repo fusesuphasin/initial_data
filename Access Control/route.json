@@ -1,0 +1,11 @@
+[
+    {
+        "id": "0",
+        "name": "Courier Name",
+        "path_list": [
+            "/admin/courier/name",
+            "/admin/courier/name/:id",
+            "/admin/courier/name/:id/is_enabled"
+        ]
+    }
+]

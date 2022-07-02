@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "slug": "kg",
+        "name": "kilogram",
+        "symbol": "kg"
+    },
+    {
+        "id": "1",
+        "slug": "g",
+        "name": "gram",
+        "symbol": "g"
+    },
+    {
+        "id": "2",
+        "slug": "lb",
+        "name": "pound",
+        "symbol": "lb"
+    },
+    {
+        "id": "3",
+        "slug": "oz",
+        "name": "ounce",
+        "symbol": "oz"
+    }
+]

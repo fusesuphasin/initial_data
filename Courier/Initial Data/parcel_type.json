@@ -1,0 +1,67 @@
+[
+    {
+        "id": "0",
+        "slug": "file",
+        "name": "File"
+    },
+    {
+        "id": "1",
+        "slug": "dry_food",
+        "name": "Dry food"
+    },
+    {
+        "id": "2",
+        "slug": "commodity",
+        "name": "Commodity"
+    },
+    {
+        "id": "3",
+        "slug": "clothes",
+        "name": "Clothes"
+    },
+    {
+        "id": "4",
+        "slug": "books",
+        "name": "Books"
+    },
+    {
+        "id": "5",
+        "slug": "auto_parts",
+        "name": "Auto parts"
+    },
+    {
+        "id": "6",
+        "slug": "shoes_and_bags",
+        "name": "Shoes and bags"
+    },
+    {
+        "id": "7",
+        "slug": "shoes_and_bags",
+        "name": "Shoes and bags"
+    },
+    {
+        "id": "8",
+        "slug": "sports_equipment",
+        "name": "Sports equipment"
+    },
+    {
+        "id": "9",
+        "slug": "cosmetics",
+        "name": "Cosmetics"
+    },
+    {
+        "id": "10",
+        "slug": "household",
+        "name": "Household"
+    },
+    {
+        "id": "11",
+        "slug": "fruit",
+        "name": "Fruit"
+    },
+    {
+        "id": "12",
+        "slug": "others",
+        "name": "Others"
+    }
+]
